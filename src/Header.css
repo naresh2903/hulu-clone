@@ -56,5 +56,12 @@
 }
 .header > img{
     object-fit: contain;
-    height: 80px;
+    height: 60px;
+    
 }
+/* .np{
+    font-size: large;
+    font-weight: 700;
+    margin-left: 550px;
+    color:white;
+} */
